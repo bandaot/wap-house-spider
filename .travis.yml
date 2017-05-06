@@ -23,4 +23,4 @@ branches:
 
 env:
   global:
-    - GH_REF: github.com/bandaot/wap-renting-spider.git #设置GH_REF，注意更改yourname
+    - GH_REF: github.com/bandaot/wap-house-spider.git #设置GH_REF，注意更改yourname
